@@ -8,11 +8,11 @@
 
 ## Technical and System Design Topics
 
-- [column-db] - Fundamentals of column DB.
+- [rowdb-columndb] - Deepdive into how row and column DBs are different and similar, highlighting when to use which one.
 - [partion-deep-dive] - Deepdive into how DB partioning works.
 
 [chestertons-fence]: https://fs.blog/chestertons-fence/
-[column-db]: https://blog.acolyer.org/2018/09/26/the-design-and-implementation-of-modern-column-oriented-database-systems/
 [making-of-a-mgr]: https://fellow.app/blog/management/julie-zhuo-the-making-of-a-manager/?v2=1
 [conflicting-priority]: https://leaddev.com/process/navigating-competing-priorities-engineer
 [partion-deep-dive]: https://www.timescale.com/learn/data-partitioning-what-it-is-and-why-it-matters
+[rowdb-columndb]: https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/
