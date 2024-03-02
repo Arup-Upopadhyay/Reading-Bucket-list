@@ -10,7 +10,9 @@
 
 - [rowdb-columndb] - Deepdive into how row and column DBs are different and similar, highlighting when to use which one.
 - [partion-deep-dive] - Deepdive into how DB partioning works.
+- [cassandra-working-overview]- a tiny deepdive into how Cassandra works.
 
+[cassandra-working-overview]: https://www.guru99.com/cassandra-architecture.html
 [chestertons-fence]: https://fs.blog/chestertons-fence/
 [making-of-a-mgr]: https://fellow.app/blog/management/julie-zhuo-the-making-of-a-manager/?v2=1
 [conflicting-priority]: https://leaddev.com/process/navigating-competing-priorities-engineer
