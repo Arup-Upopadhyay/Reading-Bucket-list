@@ -2,7 +2,7 @@
 
 ## General Topics
 
-- [chestertons-fence] - Chesterton’s Fence.
+- [chestertons-fence]{:target="_blank"} - Chesterton’s Fence.
 - [making-of-a-mgr] - Lessons from Julie Zhuo’s The Making of a Manager
 - [conflicting-priority] - Managing conflicting priority
 
