@@ -12,6 +12,7 @@
 - [partion-deep-dive] - Deepdive into how DB partioning works.
 - [cassandra-working-overview]- a tiny deepdive into how Cassandra works.
 - Kafka in-depth reading
+  - Uber has one of the largest deployments of Kafka CLusters, processing 12 million messages per second, and more than 10 Trillion messages a day. Linkden Process 7 trillion messages each day with Kafka.
   - [Kafka-Part-One]: Fundamentals of Kafka.
   - [Kafka-Part-Two]: Handson on Kafka
 
