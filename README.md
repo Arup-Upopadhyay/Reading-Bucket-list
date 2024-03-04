@@ -11,6 +11,9 @@
 - [rowdb-columndb] - Deepdive into how row and column DBs are different and similar, highlighting when to use which one.
 - [partion-deep-dive] - Deepdive into how DB partioning works.
 - [cassandra-working-overview]- a tiny deepdive into how Cassandra works.
+- Kafka in-depth reading
+  - [Kafka-Part-One]: Fundamentals of Kafka.
+  - [Kafka-Part-Two]: Handson on Kafka
 
 [cassandra-working-overview]: https://www.guru99.com/cassandra-architecture.html
 [chestertons-fence]: https://fs.blog/chestertons-fence/
@@ -18,3 +21,5 @@
 [conflicting-priority]: https://leaddev.com/process/navigating-competing-priorities-engineer
 [partion-deep-dive]: https://www.timescale.com/learn/data-partitioning-what-it-is-and-why-it-matters
 [rowdb-columndb]: https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/
+[Kafka-Part-One]: https://rohithsankepally.github.io/Kafka-Architecture/
+[Kafka-Part-Two]: https://rohithsankepally.github.io/Kafka-Hands-On/#:~:text=Kafka%20is%20built%20using%20zookeeper,out%20of%20this%20blog's%20scope.
